@@ -1,25 +1,25 @@
-name: John Doe
+name: Livia Bezerra De Souza
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
-  gitlab: 
+  email: liviasouuza90@gmail.com
+  github: LiviaBezerraaa
+  linkedin: 
+  phone:(84) 987190363
+  gitlab:
   twitter: 
 
 languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: portugues (nativa)
+  - idiom: 
+  - idiom: 
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: técnico em Informatica 
+    time: 2023-2025
+    university: IFRN Campus Mossoró 
 
   - degree: BSc in Computer Science
     time: 2010-2014
